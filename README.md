@@ -1,3 +1,5 @@
+## This fork contains the Google Colab notebook integrated with Google Drive to analyse the images.
+
 ## Dynamic Feature Integration for Simultaneous Detection of Salient Object, Edge and Skeleton
 
 ### This is a demo PyTorch implementation of our IEEE TIP 2020 [paper](http://mftp.mmcheng.net/Papers/20TIP-DFI.pdf).
